@@ -1,0 +1,5 @@
+//if (false) {
+//    include ':utils', ':framework', ':javalib'
+//} else {
+    include ':App', ':AUtils', ':AFramework'
+//}
